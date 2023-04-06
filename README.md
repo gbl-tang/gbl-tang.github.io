@@ -1,2 +1,1 @@
-# gbl-tang.github.io
-毕业设计
+什么玩意
